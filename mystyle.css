@@ -7,7 +7,7 @@ h1 {
   margin-left : 20px;
   }
   
-ol.a {
+ol li {
   list-style-type: lower-alpha;
   font: 15px arial, sans-serif;
 }
